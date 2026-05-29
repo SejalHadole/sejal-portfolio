@@ -24,7 +24,7 @@ Modern animated developer portfolio built using React, TypeScript, Tailwind CSS,
 
 ## Live Portfolio
 
-https://sejal-portfolio.vercel.app
+https://sejal-portfolio-2mhm.vercel.app/
 
 ## Author
 
